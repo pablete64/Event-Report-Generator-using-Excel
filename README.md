@@ -30,4 +30,4 @@
 ## Run the program:
 
     ```bash
-      python3 CONTADORE_DE_DIAS.py
+      python3 ESTRUCTURACION_DE_DATOS.py
