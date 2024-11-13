@@ -22,3 +22,12 @@
    ```bash
    git clone https://github.com/yourusername/excel-event-analyzer.git
    cd excel-event-analyzer
+
+2. Install the required dependencies:
+    ```bash
+   pip install -r requirements.txt
+
+## Run the program:
+
+    ```bash
+      python3 CONTADORE_DE_DIAS.py
